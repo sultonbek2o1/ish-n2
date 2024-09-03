@@ -1,0 +1,21 @@
+div {
+    color: gray;
+    background-color:red;
+}
+span{
+    color: aqua;
+    background-color: beige;
+}strong{
+    color: brown;
+    background-color: aqua;
+}
+cite{
+    color: aqua;
+    background-color: black;
+    font-size: 40px;
+    font-style:@import url(https://fonts.googleapis.com/css2?family=Stardos+Stencil:wght@100;200;300;400;500;600;700&display=swap);
+    
+    body {
+      font-family: 'Stardos Stencil', display;
+    };
+}
